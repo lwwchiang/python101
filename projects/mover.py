@@ -1,6 +1,6 @@
 # Write a script that moves all files with the .png extension
 # from one folder to another
-
+# mover exercise
 # Import pathlib
 import pathlib
 from pathlib import Path
